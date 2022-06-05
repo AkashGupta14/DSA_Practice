@@ -5,7 +5,7 @@
 //import java.util.*;
 //
 //
-//public class DSA_Problems {
+//public class Practice_Problems {
 //
 //    public static void main(String[] args) {
 //        //Question 1
